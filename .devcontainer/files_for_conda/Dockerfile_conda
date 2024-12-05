@@ -1,0 +1,6 @@
+FROM mcr.microsoft.com/devcontainers/miniconda:3
+# RUN conda install numpy scipy matplotlib jupyter pydmd tqdm
+
+# RUN sudo apt-get update
+# RUN sudo apt install -y libhdf5-dev
+# RUN pip install h5py

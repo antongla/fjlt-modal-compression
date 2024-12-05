@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.h5
+.out
+*.pyc
+.DS_Store
+.vscode/
+**/figures/**
+*.mp4
