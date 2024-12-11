@@ -37,6 +37,9 @@ The repository is organised in two main parts.
 1. Run the notebooks in `./notebooks/<specific notebook case>/scripts/` to generate the data for the plotting scripts.
 2. Run the plotting notebooks in `./notebooks/<specific notebook case>/postproc/`.
 
+### Downloading the data
+This README will be updated once the data files are available on an external server.
+
 ## Contributing
 Bug reports are always welcome, raise these through issues in GitHub.
 
@@ -61,3 +64,4 @@ A git filter, which uses [nbstripout](https://github.com/kynan/nbstripout) is us
 
 ## TODO for release
 - [ ] Sort out data hosting
+- [ ] Add DOI references to the paper and other sources
