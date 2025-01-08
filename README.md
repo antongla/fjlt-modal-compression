@@ -38,7 +38,7 @@ The repository is organised in two main parts.
 2. Run the plotting notebooks in `./notebooks/<specific notebook case>/postproc/`.
 
 ### Downloading the data
-This README will be updated once the data files are available on an external server.
+The data used for this paper may be found at the following DOI address: https://doi.org/10.25781/KAUST-Y0F7D.
 
 ## Contributing
 Bug reports are always welcome, raise these through issues in GitHub.
@@ -61,7 +61,3 @@ A git filter, which uses [nbstripout](https://github.com/kynan/nbstripout) is us
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## TODO for release
-- [ ] Sort out data hosting
-- [ ] Add DOI references to the paper and other sources
