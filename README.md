@@ -1,7 +1,7 @@
 # FJLT-Modal: Dynamics-preserving compression for modal flow analysis using Fast Johnson-Lindenstrauss Transforms
 FJLT-Modal is a set of notebooks and python scripts that implement Fast Johnson-Lindenstrauss Transforms and apply them to modal analysis of complex datasets.
 
-This repository contains all that is required to reproduce the figures and results in the paper: "Dynamics-preserving compression for modal flow analysis" by A. Glazkov and P. Schmid.
+This repository contains all that is required to reproduce the figures and results in the paper: ["Dynamics-preserving compression for modal flow analysis" by A. Glazkov and P. Schmid](https://doi.org/10.1017/jfm.2024.1097).
 At present this includes applications to SVD and DMD decompostion methods.
 
 ## Table of contents
