@@ -40,7 +40,7 @@
 				"python.pythonPath": "/usr/local/bin/python",
                 "python.defaultInterpreterPath": "/usr/local/bin/python",
 				"python.analysis.extraPaths": [
-					"/workspaces/fjlt-modal/utils"
+					"/workspaces/fjlt-modal-compression/utils"
 				]
 			}
 		}
